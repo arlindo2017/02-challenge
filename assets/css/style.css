@@ -1,11 +1,11 @@
-/* || Page Styling */
+/* Page Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* || Element styling */
+/* HTML Element styling */
 body {
     background-color: #d9dcd6;
 }
@@ -19,7 +19,7 @@ p {
     font-size: 16px;
 }
 
-/* || Header Styling*/
+/* Header Styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,7 +55,7 @@ p {
     margin-left: 25px;
 }
 
-/* || Background Cover */
+/* Background Cover */
 .hero-background {
     height: 800px;
     width: 100%;
@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/* || Left Content Panels */
+/* Left Content Panels */
 .content {
     width: 75%;
     display: inline-block;
@@ -99,7 +99,7 @@ p {
     margin-left: 25px;
 }
 
-/* || Benefits*/
+/* Benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,7 +125,7 @@ p {
     max-width: 150px;
 }
 
-/* || Footer style */
+/* Footer style */
 .footer {
     padding: 30px;
     clear: both;
@@ -138,6 +138,7 @@ p {
 }
 
 /* Formats link that brings users to top of page */
-#back-to-top {
+#bookmark-top-of-page {
     color: #0072bb;
+    font-weight: bold;
 }
